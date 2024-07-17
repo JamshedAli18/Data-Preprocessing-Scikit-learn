@@ -10,4 +10,6 @@
 
 **Splitting the data:** Dividing your data into training and testing sets to evaluate model performance.
 
+**Column Transformer**
+
 **Making Pipelines** Making pipelines in order to reduce the redunduncy in code and preparing the model for production purpose
