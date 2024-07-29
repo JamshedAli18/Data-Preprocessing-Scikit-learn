@@ -12,4 +12,4 @@
 
 **Column Transformer**
 
-**Making Pipelines** Making pipelines in order to reduce the redunduncy in code and preparing the model for production purpose
+**Making Pipelines** Making pipelines in order to reduce the redunduncy in code and preparing the model for production purpose.
